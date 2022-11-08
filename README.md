@@ -20,7 +20,7 @@ SELECT DISTINCT ?artwork ?type WHERE {
 ``` 
 
 The dataset contains now all works of art stored in Wikidata (until 14/04/2022). 
-We semiautomatically surveyed the existing classes and removed all elements belonging to musical, cinematographic classes and statistical rumor.
-This phase of pre-processing can be found at ```dataset_preprocessing.ipynb```.
+We semiautomatically surveyed the existing classes and removed all elements belonging to musical, cinematographic classes and statistical rumor. In the dataset are still comprised all instances of classes belonging literary productions, visual artworks, cultural sites, operatic works, performing arts, journals etc.
+This phase of pre-processing can be found at ```dataset_preprocessing.ipynb```. 
 
 
