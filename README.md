@@ -1,2 +1,2 @@
 # ACKnowldge-WikiArt
-## Analysis on Complex Knowledge over Wikidata Artworks
+## Analysis on Complex Knowledge over Wikidata works of Art
