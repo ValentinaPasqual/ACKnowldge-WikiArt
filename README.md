@@ -6,6 +6,8 @@
 
 ## Methodology
 
+### Dataset extraction and manipulation
+
 All artworks with their type.
 
 From Wikidata SPARQL endpoint, we selected all artworks (Q1). Then we got all artworks related metadata from Wikidata API (```wbgetentities``` method). 
