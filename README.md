@@ -24,6 +24,13 @@ The dataset comprises literary productions, visual artworks, cultural sites, ope
 
 The dataset contains 2'156'363 works of art (wikidata entities) described by 18'924'333 statements and belonging to 6'612 selected classes. The dataset is stored in a zip folder organised in 10'782 json files, each storing 200 entities and their metadata. The dataset can be found in Zenodo at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7307852.svg)](https://doi.org/10.5281/zenodo.7307852)
 
+Each dataset is analysed on three methods to represent complex knowledge:
+- Non-asserted statements obtained via ranking mechanism
+- Null-valued statements
+- Explicitly uncertain marked statements 
+
+
+
 
 
 
