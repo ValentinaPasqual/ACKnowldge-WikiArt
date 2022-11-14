@@ -1,9 +1,6 @@
 # ACKnowldge-WikiArt
 ## Analysis on Complex Knowledge over Wikidata works of Art
 
-
-## Scope
-
 ## Methodology
 
 ### Dataset extraction and manipulation
@@ -28,6 +25,10 @@ Each dataset is analysed on three methods to represent complex knowledge:
 - Non-asserted statements obtained via ranking mechanism
 - Null-valued statements
 - Explicitly uncertain marked statements 
+
+## Data analysis
+
+Analysis on data can be found at ```data_analysis.ipynb```
 
 
 
