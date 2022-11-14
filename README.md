@@ -28,8 +28,12 @@ Each dataset is analysed on three methods to represent complex knowledge:
 
 ## Data analysis
 
-Analysis on data can be found at ```data_analysis.ipynb```
+Analysis on data can be found at ```data_analysis.ipynb```.
 
+To efficiently handling the data analysis some intermediate file have been created for each surveyed type of knowledge. All intermediate files can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7319887.svg)](https://doi.org/10.5281/zenodo.7319887).
+
+
+ 
 
 
 
